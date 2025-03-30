@@ -4,5 +4,6 @@
 <br>
 <h2>Tecnologias utilizadas:</h2>
 <p>
+<img src="https://github.com/Ejmartins2/Mario-Brothers/blob/master/logo/icons8-html-5-48.png?raw=true">
   
 </p>
