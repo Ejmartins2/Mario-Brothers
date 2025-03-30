@@ -6,5 +6,7 @@
 <p>
 <img src="https://github.com/Ejmartins2/Mario-Brothers/blob/master/logo/icons8-html-5-48.png?raw=true">
 <img src="https://github.com/Ejmartins2/Mario-Brothers/blob/master/logo/icons8-css-logo-48.png?raw=true">
-  
+<img src="https://github.com/Ejmartins2/Mario-Brothers/blob/master/logo/icons8-javascript-48.png?raw=true">
 </p>
+
+<video src="
